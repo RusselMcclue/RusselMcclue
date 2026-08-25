@@ -10,4 +10,4 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=A80C08&center=true&width=435&lines=The+truth+is%2C+I'm+but+a+man;built+on+lies%2C+fear+and+hate.;I+need+you.+You're+my+gravity.;Without+you+my+world+would+cease+to+be.;It's+too+late+for+me.;So%2C+save+yourself.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=A80C08&center=true&vCenter=true&width=435&lines=The+truth+is%2C+I'm+but+a+man;built+on+lies%2C+fear+and+hate.;I+need+you.+You're+my+gravity.;Without+you+my+world+would+cease+to+be.;It's+too+late+for+me.;So%2C+save+yourself.)](https://git.io/typing-svg)
