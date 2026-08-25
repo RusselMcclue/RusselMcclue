@@ -1,6 +1,6 @@
 <div align="center">
  
- ![](https://komarev.com/ghpvc/?username=mutiIator&style=plastic&color=A80C08&label=reunion)
+ ![](https://komarev.com/ghpvc/?username=mutiIator&style=plastic&color=A80C08&label=reunions)
  </div>
  
 
