@@ -1,5 +1,4 @@
-<div align="center">
- 
+<div align="center"> 
  ![](https://komarev.com/ghpvc/?username=mutiIator&style=plastic&color=A80C08&label=reunions)
  </div>
 <div align="center">
